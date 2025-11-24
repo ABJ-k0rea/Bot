@@ -86,5 +86,5 @@ round(0)
 
 if __name__ == "__main__":
     # Token check
-    # bot.run('TOKEN') # 実行時はここにTokenを入れてください!
+    # bot.run('MTQyNTQ0ODU0MjUyODQ3NTIwNw.GMPL31.tLYzEazJWhz4i_eCPyvmuswt5QEi574zc-bSaI') # 実行時はここにTokenを入れてください!
     pass
